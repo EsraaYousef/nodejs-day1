@@ -1,0 +1,17 @@
+{
+  "name": "new-node-app",
+  "version": "1.0.0",
+  "description": "new application using node js",
+  "main": "nodeTask.js",
+  "scripts": {
+    "test": "test",
+    "start": "node nodeTask.js",
+    "dev": "nodemon ."
+  },
+  "author": "esraa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
